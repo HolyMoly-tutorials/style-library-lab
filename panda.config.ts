@@ -18,8 +18,10 @@ export default defineConfig({
 						dark: { value: "#e5e5e5" },
 					},
 				},
+				asdf : {}
 			},
 			semanticTokens: {
+				asdf: {},
 				colors: {
 					"button-primary": { value: "{colors.primary.DEFAULT}" },
 					"button-primary-hover": { value: "{colors.primary.dark}" },

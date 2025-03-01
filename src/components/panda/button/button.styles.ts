@@ -24,6 +24,8 @@ export const buttonRecipe = defineRecipe({
 		stretch: false,
 		disabled: false,
 	},
+
+	compoundVariants:{},
 	variants: {
 		size: {
 			sm: {
